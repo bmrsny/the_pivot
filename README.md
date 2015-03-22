@@ -29,3 +29,6 @@ Then go to 'localhost: "specified port"' to checkout the site.
 Air Lift was built on Rails 4.2.0. 
 
 Run the test suite using: "rspec"
+
+To see commit history check
+	https://github.com/larsonkonr/The_Pivot
